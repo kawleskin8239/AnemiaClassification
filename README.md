@@ -22,11 +22,11 @@ It includes various blood markers and diagnosis labels for different types of an
 
 - Visualization of confusion matrices and feature importances
 
-##Requirements
+## Requirements
 Make sure you have the following Python packages installed:
 
 `pip install pandas numpy scikit-learn matplotlib`
-##Usage
+## Usage
 1. Download the dataset from Kaggle and place diagnosed_cbc_data_v4.csv in the same directory.
 
 2. Run the Python script.
