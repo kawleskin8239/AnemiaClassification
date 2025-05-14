@@ -3,7 +3,7 @@ This project applies machine learning techniques to classify anemia types using 
 
 ## Dataset
 The data used in this project comes from the Kaggle dataset:
-Anemia Types Classification
+**[Anemia Types Classification](https://www.kaggle.com/datasets/ehababoelnaga/anemia-types-classification)**
 
 It includes various blood markers and diagnosis labels for different types of anemia.
 
