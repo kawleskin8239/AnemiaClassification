@@ -39,6 +39,7 @@ print(f"Score: {f1_score(y, y_pred, average='weighted'):.3f}")
 cm = confusion_matrix(y, clf.predict(X), normalize="true")
 disp_cm = ConfusionMatrixDisplay(cm, display_labels=clf.classes_)
 disp_cm.plot()
+plt.xticks(rotation=90)
 plt.show()
 
 # Perform a Grid Search to find the optimal mad depth for a Random Forest
@@ -67,4 +68,5 @@ print(f"OOB Score: {clf.oob_score_:.3f}")
 cm = confusion_matrix(y, clf.predict(X), normalize="true")
 disp_cm = ConfusionMatrixDisplay(cm, display_labels=clf.classes_)
 disp_cm.plot()
+plt.xticks(rotation=90)
 plt.show()
