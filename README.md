@@ -65,15 +65,21 @@ Make sure you have the following Python packages installed:
 
 ## Results
   - F1 Scores from grid search
-<img width="338" alt="image" src="https://github.com/user-attachments/assets/4292cbf1-209a-44ff-9a84-2438ef98e04e" />
+    <img width="338" alt="image" src="https://github.com/user-attachments/assets/4292cbf1-209a-44ff-9a84-2438ef98e04e" />
+    
     The bottom score is the score that the most optimal C value obtained on the test set
+    
   - Bagging Classifier Confusion Matrix
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/e0ddc7fa-2684-4408-8b29-da940f0071d1" />
+
   - Feature Importance bar chart for Random Forest
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/8b370e11-f149-4251-bd13-0060639c8f28" />
+
   - Random Forest Scores
 <img width="324" alt="image" src="https://github.com/user-attachments/assets/f784738b-c3a0-46c5-b41d-7419930181db" />
+
 <img width="109" alt="image" src="https://github.com/user-attachments/assets/8f0ed33d-d1e6-4b77-945a-1080631561a9" />
+
   - Random Forest Confusion Matrix
 <img width="596" alt="image" src="https://github.com/user-attachments/assets/dfb76425-1bd6-41d6-8c19-a936bae4a132" />
 
